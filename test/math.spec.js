@@ -1,6 +1,10 @@
-//importando modulo nativo do node
+// importando modulo nativo do node
 const assert = require('assert');
+
+// importando a classe a ser testada
 const Math = require('../src/math.js');
+
+
 
 let value = 0;
 
